@@ -1,3 +1,11 @@
+ /*textForm*/
+ #textForms h1{
+     text-align: center;
+     text-decoration: underline;
+     margin-top: 35px;
+     margin-bottom: 20px;
+ }
+ 
  /*Navigation Bar*/
 .navbar{
   position: fixed;
